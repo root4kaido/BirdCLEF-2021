@@ -1,5 +1,7 @@
 # BirdCLEF-2021
 
+https://www.notion.so/BirdCLEF-2021-b33fd658b04949cd9cda4286e1aaa32b
+
 - 01…ベース
 - 02…melでやろうとした
 - 03…torch audio
