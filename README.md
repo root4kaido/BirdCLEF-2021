@@ -31,3 +31,16 @@
 - 30…なんだっけ
 - 31…resnest50
 - 32…10秒
+
+- 37…secondary label(0.9)
+- 38…secondary label(mask)
+- 39…37+backgroundnoise+pitch shift
+- 40…ノーマライズ復活+secondary
+- 41…ノーマライズなし+secondary
+- 42…ノーマライズなし
+- 43…39で，smoothing0.8
+- 44…39で，0.95
+- 45…pinknoiseいれてみた
+- 46…effi v2 b2
+- 47…effi v1 b0
+- 48…effi v2 b1
